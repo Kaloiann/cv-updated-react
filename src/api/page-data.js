@@ -5,6 +5,9 @@ export const aboutData = {
   location: 'Sofia, Bulgaria',
   email: 'kaloyantsenkulovski.cv@gmail.com',
   phone: '+359 898 437 788',
+  specialized: 'Front-end and Javascript technologies',
+  lookingFor: 'React Mid-level Developer Role',
+  minimumSalaryExpected: `NET 5'000BGN / month`,
 }
 
 export const experienceData = [
